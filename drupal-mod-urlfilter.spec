@@ -3,11 +3,11 @@ Summary:	Drupal URL Filter Module
 Summary(pl):	Modu³ URL Filter dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
-Release:	0.1
+Release:	0.2
 License:	GPL v2
 Group:		Applications/WWW
 Source0:	http://drupal.org/files/projects/%{modname}-%{version}.tar.gz
-# Source0-md5:	bd7d7cc306a54d7f463dba53334a54cc
+# Source0-md5:	4318c88acf55e85f29c239d559a6c286
 URL:		http://drupal.org/project/urlfilter
 BuildRequires:	rpmbuild(macros) >= 1.194
 Requires:	drupal >= 4.6.0
