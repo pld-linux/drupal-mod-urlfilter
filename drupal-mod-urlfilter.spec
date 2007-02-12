@@ -1,6 +1,6 @@
 %define		modname urlfilter
 Summary:	Drupal URL Filter Module
-Summary(pl):	Modu≥ URL Filter dla Drupala
+Summary(pl.UTF-8):   Modu≈Ç URL Filter dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.2
@@ -22,9 +22,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is a simple filter module. It automatically converts URLs (http,
 ftp, email, ...) into hyperlinks.
 
-%description -l pl
-To jest prosty modu≥ filtra. Automatycznie przekszta≥ca URL-e (http,
-ftp, email...) na hiper≥±cza.
+%description -l pl.UTF-8
+To jest prosty modu≈Ç filtra. Automatycznie przekszta≈Çca URL-e (http,
+ftp, email...) na hiper≈ÇƒÖcza.
 
 %prep
 %setup -q -n %{modname}
