@@ -1,6 +1,6 @@
 %define		modname urlfilter
 Summary:	Drupal URL Filter Module
-Summary(pl.UTF-8):   Moduł URL Filter dla Drupala
+Summary(pl.UTF-8):	Moduł URL Filter dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.2
